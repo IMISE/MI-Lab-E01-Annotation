@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kurtz"
+  given-names: "Milla"
+  orcid: "https://orcid.org/0009-0008-2696-5659"
+- family-names: "Perbix"
+  given-names: "Mona"
+  orcid: "https://orcid.org/0009-0006-3030-8606"
+- family-names: "Löbe"
+  given-names: "Matthias"
+  orcid: "https://orcid.org/0000-0002-2344-0426"
+title: "MI-Lab Exercise 01 Annotation of data elements in data dictionaries"
+version: 1.0.0
+date-released: 2017-12-18
+url: "https://github.com/IMISE/MI-Lab-E01-Annotation"
